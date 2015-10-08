@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/billskrzypczak/AndroidStudioProjects/BRYHNH/app/libs/FlurryAnalytics-4.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4fcf733ae6d937dbba0f42b6549ffbb8a068dc6c">
+        <dex dex="/Users/billskrzypczak/AndroidStudioProjects/BRYHNH/app/build/intermediates/pre-dexed/debug/FlurryAnalytics-4.0.0-5bc4bc9bc0cfaccdc763326917fd884eca7da9dc.jar" />
+    </item>
+    <item
+        jar="/Users/billskrzypczak/AndroidStudioProjects/WaveriderBill/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/billskrzypczak/AndroidStudioProjects/WaveriderBill/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-92b4446a643260bcf4557a7e691e9fb9eccc2464.jar" />
+    </item>
+    <item
+        jar="/Users/billskrzypczak/AndroidStudioProjects/WaveriderBill/app/libs/FlurryAnalytics-4.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4fcf733ae6d937dbba0f42b6549ffbb8a068dc6c">
+        <dex dex="/Users/billskrzypczak/AndroidStudioProjects/WaveriderBill/app/build/intermediates/pre-dexed/debug/FlurryAnalytics-4.0.0-cb653ecec1394d39ab93d7f2e7b012d7f7b56d80.jar" />
+    </item>
+    <item
+        jar="/Users/billskrzypczak/AndroidStudioProjects/BRYHNH/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/billskrzypczak/AndroidStudioProjects/BRYHNH/app/build/intermediates/pre-dexed/debug/classes-e0b7857b8dc8b36fcf998b52f22b59d9ab508e24.jar" />
+    </item>
+    <item
+        jar="/Users/billskrzypczak/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/billskrzypczak/AndroidStudioProjects/WaveriderBill/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-28ad9196b06db83243039ea44311a410a5eec5ae.jar" />
+    </item>
+    <item
+        jar="/Users/billskrzypczak/AndroidStudioProjects/BRYHNH/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/billskrzypczak/AndroidStudioProjects/BRYHNH/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-096ca53bc146bc8f6f8f11f9d14928197407d6f7.jar" />
+    </item>
+    <item
+        jar="/Users/billskrzypczak/AndroidStudioProjects/WaveriderBill/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/billskrzypczak/AndroidStudioProjects/WaveriderBill/app/build/intermediates/pre-dexed/debug/classes-add56edf9d79b63aea102c342ad4adf045aa0f68.jar" />
+    </item>
+
+</items>
